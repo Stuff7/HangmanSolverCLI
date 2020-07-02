@@ -1,6 +1,6 @@
 # Hangman Solver
 
-Guesses hangman solutions from a list of 370k+ english words.
+Guesses hangman solutions from a list of 370k+ english words...
 
 ## Authors
 
